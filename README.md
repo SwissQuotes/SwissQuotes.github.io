@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <a href="https://50xSuisse.github.io">
+  <a href="https://SwissQuotes.github.io">
     <img src="https://github.com/SwissQuotes/SwissQuotes.github.io/assets/156722656/11fda061-e613-408f-9ac8-46fb89a5e9e3" alt="Swiss Alps" width="800" href="50xSuisse.github.io">
   </a>
 </p>
