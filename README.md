@@ -15,3 +15,4 @@
   </a>
 </p>
 <h5 align="center">Fabriqué en Suisse par <a href=https://github.com/50xsuisse>50⤬Suisseᐩ</a></h5>
+<h6 align="center">Nearly 3000 SwissQuotes and Counting!</a></h6>
